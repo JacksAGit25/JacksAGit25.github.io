@@ -1,27 +1,15 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site title
 title: "Jack's Portfolio"
 
 # Below the site title
-tagline: "I'm Jack Mattehws and I'm a recent bSC cybersecurity graduate from the University of West London, and I'm currently searching for a job in IT. 
-I'm eager to learn and demonstrate my knowlege and understanding of IT and cybersecurity and willing to take most opportunities that arise."
-
-tagline: "I'm Jack Mattehws and I'm a recent bSC cybersecurity graduate from the University of West London, and I'm currently searching for a job in IT. 
-I'm eager to learn and demonstrate my knowlege and understanding of IT and cybersecurity and willing to take most opportunities that arise."
+tagline: "I'm Jack Matthews, I'm a recent bSC cybersecurity graduate from the University of West London and am currently searching for work in the field of IT. I'm eager to further my understanding of cybersecurity and to demonstrate my knowlege I've attained throughout my time in eduation.  to take most opportunities that arise."
 
 # Site logo
 logo:
 
 # A description of your site for social meta tag, search engines, and feed.xml
-description: "This webiste was created for the purpose of providing a greater insight into who I am, the histroy of my education
-with the intention of trying to give an understanding of my experiences as an graduate and to demonstrate my ability to 
-create a functional web-portfolio."
+description: |
 
 # The base hostname & protocol of your site for where absolute urls are needed
 url: https://blogbox.netlify.app
@@ -45,7 +33,7 @@ navigation:
 
 # Author information - author info at the bottom of the post
 author_name: "Jack Matthews"
-author_bio: "My name is Jack Mattehws and I'm a bSC cybersecurity graduate from the University of West London, and I'm currently searching for a job in IT. I'm eager to learn and willing to take most opportunities that arise."
+author_bio: "My name is Jack Mattehws and I'm a bSC cybersecurity graduate from the University of West London."
 author_url: "https://JacksAGit25.github.io"
 author_location: "Vilnius, Lithuania"
 author_image: authorimage.jpg
@@ -58,15 +46,7 @@ banner_url: https://JacksAGit25.github.io/
 mailchimp_url: "jackprmatt25@gmail.com"
 
 # Social links in the site footer
-twitter_username: "username"
-facebook_username: "username"
-github_username: "username"
-codepen_username: "username"
-dribbble_username: "username"
-medium_username: "@username"
-instagram_username: "username"
-pinterest_username: "username"
-linkedin_username: "username"
+linkedin_username: "linkedin.com/in/jack-matthews-a3728b2a4"
 
 # http://jekyllrb.com/docs/pagination/
 paginate: 5
