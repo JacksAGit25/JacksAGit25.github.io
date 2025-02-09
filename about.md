@@ -13,6 +13,6 @@ Despite struggles I've experienced as an autistic individual, I remain ambitious
 
 Projects I've partaken in have given me fundamental insights into some of the most advanced areas in IT, such as learning how to uncover system vulnerabilities and utilise various software tools to gather intel and exploit a system's weaknesses. I've also developed strong skills in other areas such as programming and data analytics, and have become proficient at being able to work both independently and collaboratively.
 
-The intention of this web-portfolio is to give a more in-depth insight into the range of skills I've gained throughout my time in education as well as to highlight what abilties I've developed since having left my university course. I hope you enjoy learning more about me and what I have to offer through this personal portfolio.
+I created this web-portfolio with the intention of giving those intrested in me more of an in-depth insight into the range of skills I've gained throughout my time in education as well as highlighting what abilties I've developed since leaving my university. I hope you enjoy learning more about me and what I have to offer through this personal portfolio of mine.
 
 *Thanks for Reading!*
