@@ -9,7 +9,8 @@
 title: "Jack's Portfolio"
 
 # Below the site title
-tagline: "Tales of a digital nomad."
+tagline: "I'm Jack Mattehws and I'm a recent bSC cybersecurity graduate from the University of West London, and I'm currently searching for a job in IT. 
+I'm eager to learn and demonstrate my knowlege and understanding of IT and cybersecurity and willing to take most opportunities that arise."
 
 # Site logo
 logo:
@@ -41,7 +42,7 @@ navigation:
 
 # Author information - author info at the bottom of the post
 author_name: "Jack Matthews"
-author_bio: "My name is Jack Mattehws and I'm a recent bSC cybersecurity graduate from the University of West London, and I'm currently searching for a job in IT. I'm eager to learn and willing to take most opportunities that arise."
+author_bio: "My name is Jack Mattehws and I'm a bSC cybersecurity graduate from the University of West London, and I'm currently searching for a job in IT. I'm eager to learn and willing to take most opportunities that arise."
 author_url: "https://JacksAGit25.github.io"
 author_location: "Vilnius, Lithuania"
 author_image: authorimage.jpg
