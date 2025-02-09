@@ -9,14 +9,13 @@
 title: "Jack's Portfolio"
 
 # Below the site title
-tagline: Tales of a digital nomad.
+tagline: "Tales of a digital nomad."
 
 # Site logo
 logo:
 
 # A description of your site for social meta tag, search engines, and feed.xml
-description: | 
-"This webiste was created for the purpose of providing a greater insight into who I am, the histroy of my education
+description: "This webiste was created for the purpose of providing a greater insight into who I am, the histroy of my education
 with the intention of trying to give an understanding of my experiences as an graduate and to demonstrate my ability to 
 create a functional web-portfolio."
 
@@ -32,7 +31,7 @@ sass:
 # Site navigation - each item must have a title and a url.
 navigation:
 - text: "Home"
-  url: /
+  url: /Home/
 - text: "Skills"
   url: /about/
 - text: "Experience"
