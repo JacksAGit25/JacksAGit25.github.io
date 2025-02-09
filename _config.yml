@@ -33,11 +33,11 @@ sass:
 navigation:
 - text: Home
   url: /
-- text: About
+- text: Skills
   url: /about/
-- text: Style Guide
-  url: /style-guide/
-- text: Archives
+- text: Experience
+  url: /Experience/
+- text: Projects
   url: /tags/
 
 # Author information - author info at the bottom of the post
