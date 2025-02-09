@@ -24,12 +24,12 @@ sass:
 navigation:
 - text: "Home"
   url: /Home/
-- text: "Skills"
+- text: "About me"
   url: /about/
+- text: "Projects"
+  url: /Projects/
 - text: "Experience"
   url: /Experience/
-- text: "Projects"
-  url: /tags/
 
 # Author information - author info at the bottom of the post
 author_name: "Jack Matthews"
