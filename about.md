@@ -1,24 +1,18 @@
 ---
 layout: page
-title: About this blog
-description: An optional about page for BlogBox Jekyll theme
+title: About Me
+description: A page describing author's history and career ambitions
 featured_image: aboutPage.jpg
 ---
 
-My name is John Doe. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 5 years.
+As a recent Cybersecurity graduate with a good fundamental knowledge of IT systems and technical support, I am eager to apply the academic knowledge I developed throughout my education in a professional setting. The academic work I've completed during my courses have provided me with essential experience in understanding and managing computer systems.
 
-Welcome to my blog and I absolutely appreciate you stopping by! On December 25th, 2001, I left the Canada for a four months, trip to Asia. The idea was to backpack around China, Thailand, Vietnam and Cambodia and then return home and start a career in the IT industry.
+Despite struggles I've experienced as an autistic individual, I remain ambitious, driven and willing to work hard towards achieving my aim of successfully making a career for myself in IT, excited to apply my capabilities in the workplace so that I can contribute to your organisation's goals while continuously expanding my skillset. My passion and ambition to work with technology for a living has driven me to orchastrate my own personal projects used for the purpose of illustrating my ability and willingness to learn and excel towards my first entry level job in the field of cyber.
 
-When I landed in Bangkok, I had $3500 USD to my name and that was it. I booked a bed in a old guesthouse in the center of the city for about a dollar per night and let the adventure begin.
+> “I have not failed. I've just found 10,000 ways that won't work.” <cite>― Thomas A.Edison ―</cite>
 
-> “To live is the rarest thing in the world. Most people exist, that is all.” <cite>― Oscar Wilde ―</cite>
+Projects I've partaken in have given me fundamental insights into some of the most advanced areas in IT, such as learning how to uncover system vulnerabilities and utilise various software tools to gather intel and exploit a system's weaknesses. I've also developed strong skills in other areas such as programming and data analytics, and have become proficient at being able to work both independently and collaboratively.
 
-In the end, I never went home after those three months. And it’s now been over 14 years and that trip has still yet to finish.
+The intention of this web-portfolio is to give a more in-depth insight into the range of skills I've gained throughout my time in education as well as to highlight what abilties I've developed since having left my university course. I hope you enjoy learning more about me and what I have to offer through this personal portfolio.
 
-The adventure has involved over 75+ countries on 5 continents as I’ve worked, lived, traveled and volunteered all over the planet.
-
-Through my own adventures – from the incredible moments and rewarding interactions to the struggles and major challenges – I aim to provide a realistic and honest account of what long-term travel is truly about and how you can work on achieving such a goal yourself.
-
-While the recognition and mentions this blog has received over the years are certainly nice, nothing compares to an email from a reader telling me that the blog helped them achieve their own travel goals.
-
-*Thank You for reading!*
+*Thanks for Reading!*
