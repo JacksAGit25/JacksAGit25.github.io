@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site title
-title: Jack's Portfolio
+title: "Jack's Portfolio"
 
 # Below the site title
 tagline: Tales of a digital nomad.
@@ -16,9 +16,9 @@ logo:
 
 # A description of your site for social meta tag, search engines, and feed.xml
 description: | 
-This webiste was created for the purpose of providing a greater insight into who I am, the histroy of my education
+"This webiste was created for the purpose of providing a greater insight into who I am, the histroy of my education
 with the intention of trying to give an understanding of my experiences as an graduate and to demonstrate my ability to 
-create a functional web-portfolio. 
+create a functional web-portfolio."
 
 # The base hostname & protocol of your site for where absolute urls are needed
 url: https://blogbox.netlify.app
@@ -31,28 +31,28 @@ sass:
 
 # Site navigation - each item must have a title and a url.
 navigation:
-- text: Home
+- text: "Home"
   url: /
-- text: Skills
+- text: "Skills"
   url: /about/
-- text: Experience
+- text: "Experience"
   url: /Experience/
-- text: Projects
+- text: "Projects"
   url: /tags/
 
 # Author information - author info at the bottom of the post
-author_name: "John Doe"
-author_bio: "My name is John Doe. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 6 years."
-author_url: "https://justgoodthemes.com"
+author_name: "Jack Matthews"
+author_bio: "My name is Jack Mattehws and I'm a recent bSC cybersecurity graduate from the University of West London, and I'm currently searching for a job in IT. I'm eager to learn and willing to take most opportunities that arise."
+author_url: "https://JacksAGit25.github.io"
 author_location: "Vilnius, Lithuania"
 author_image: authorimage.jpg
 
 # Footer ad banner
 banner_image: banner.jpg
-banner_url: https://justgoodthemes.com/
+banner_url: https://JacksAGit25.github.io/
 
 # Footer newsletter widget - add your form action url for MailChimp signup form here
-mailchimp_url: "//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117"
+mailchimp_url: "jackprmatt25@gmail.com"
 
 # Social links in the site footer
 twitter_username: "username"
