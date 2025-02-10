@@ -22,14 +22,15 @@ sass:
 
 # Site navigation - each item must have a title and a url.
 navigation:
-- text: "Home"
-  url: /Home/
+
 - text: "About me"
   url: /about/
 - text: "Projects"
   url: /Projects/
 - text: "Experience"
   url: /Experience/
+- text: "Contacts"
+  url: /Contacts/
 
 # Author information - author info at the bottom of the post
 author_name: "Jack Matthews"
