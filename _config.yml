@@ -3,16 +3,19 @@
 title: "Jack's Portfolio"
 
 # Below the site title
-tagline: "I'm Jack Matthews, I'm a recent bSC cybersecurity graduate from the University of West London and am currently searching for work in the field of IT. I'm eager to further my understanding of cybersecurity and to demonstrate my knowlege to you."
+tagline: "I'm Jack Matthews, I'm a recent bSC cybersecurity graduate from the University of West London and am currently searching for work in the field of IT. I'm eager to further my understanding of cybersecurity and look forward to demonstrating my ability."
+
+   "Email"
+"jackprmatt25@gmail.com"
+
+image: Github_Social.png
+image: LinkedIn_Social.png
+image: Facebook_Social.png
+
 
 # Site logo
-logo:
+logo: CyberLogo.png
 
-# A description of your site for social meta tag, search engines, and feed.xml
-description: |
-
-# The base hostname & protocol of your site for where absolute urls are needed
-url: https://blogbox.netlify.app
 
 # The subpath of your site, if you want to host your path on a subpath like on GitHub Pages. e.g. /blog
 baseurl:
@@ -36,8 +39,7 @@ navigation:
 author_name: "Jack Matthews"
 author_bio: "My name is Jack Mattehws and I'm a bSC cybersecurity graduate from the University of West London."
 author_url: "https://JacksAGit25.github.io"
-author_location: "Vilnius, Lithuania"
-author_image: authorimage.jpg
+author_image: Profile_picture.jpeg
 
 # Footer ad banner
 banner_image: banner.jpg
@@ -46,8 +48,6 @@ banner_url: https://JacksAGit25.github.io/
 # Footer newsletter widget - add your form action url for MailChimp signup form here
 mailchimp_url: "jackprmatt25@gmail.com"
 
-# Social links in the site footer
-linkedin_username: "linkedin.com/in/jack-matthews-a3728b2a4"
 
 # http://jekyllrb.com/docs/pagination/
 paginate: 5
